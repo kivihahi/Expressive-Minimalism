@@ -131,6 +131,11 @@ Expressive Minimalism can be used for:
 - Dashboards and productivity tools
 - Digital products and services
 
+## Design examples
+
+Website: https://kivihahi.github.io/portfolio/#home
+Source code: https://github.com/kivihahi/portfolio
+
 # Philosophy
 
 Less visual noise. More meaningful expression.
