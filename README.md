@@ -64,15 +64,16 @@ Platform conventions should be respected, while typography, spacing, colours and
 
 ## Visual Language
 
-Element| Direction
-Typography| Expressive, readable, structured
-Colour| Neutral foundations with restrained accents
-Surfaces| Flat, layered and carefully contrasted
-Geometry| Simple, balanced and consistent
-Navigation| Compact and adaptive
-Components| Functional and visually coherent
-Animation| Subtle and purposeful
-Layout| Responsive and content-driven
+The visual language defines how individual interface elements work together to create a consistent and recognizable experience.
+
+- Typography: Expressive, readable and clearly structured.
+- Colour: Neutral foundations supported by restrained accents.
+- Surfaces: Flat, layered and carefully contrasted.
+- Geometry: Simple, balanced and consistent.
+- Navigation: Compact, intuitive and adaptive.
+- Components: Functional and visually cohesive.
+- Animation: Subtle, purposeful and unobtrusive.
+- Layout: Adaptive, content-focused and responsive.
 
 ## Interaction and Motion
 
